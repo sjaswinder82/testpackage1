@@ -1,6 +1,6 @@
 <?php
 
-namespace Jaswinder\Testpackag1;
+namespace Jaswinder\Testpackag1\Laravel;
 
 use Illuminate\Support\ServiceProvider as SupportServiceProvider;
 
