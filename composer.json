@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SJaswinder82\\Test\\ServiceProvider"
+                "Jaswinder\\Testpackag1\\Laravel\\ServiceProvider"
             ]
         }
     },
