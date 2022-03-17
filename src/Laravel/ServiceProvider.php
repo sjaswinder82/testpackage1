@@ -11,6 +11,6 @@ class ServiceProvider extends SupportServiceProvider
         $this->publishes([
             __DIR__.'/../config/testpackage.php' => config_path('testpackage.php'),
         ]);
-        $this->loadRoutesFrom(__DIR__.'/../routes/web.php');
+        $this->loadRoutesFrom(__DIR__.'/../routes/api.php');
     }
 }
